@@ -6,5 +6,5 @@ Economic tasks are found in the Unified State Examination, so this application
 will be useful to those who are preparing for the exam.
 
 ### :iphone: Preview
-![Screen](preview/economic.png "Screen")
+![Screen](preview/economic.jpg "Screen")
 
