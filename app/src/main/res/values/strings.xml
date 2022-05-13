@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Economic</string>
+    <string name="navigation_drawer_open">Открыт navigation drawer</string>
+    <string name="navigation_drawer_close">Закрыт navigation drawer</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developer">OwlCodR 2019\nmax.lyovkin@mail.ru\ngithub.com/owlcodr</string>
+    <string name="info"> - удобное мобильное приложение, созданное для тех, кому нужно быстро узнать ответ к задаче. Экономические задачи встречаются в ЕГЭ, поэтому это приложение будет полезно тем, кто готовится к Единому Государственному Экзамену.</string>
+    <string name="credit_diff">Дифференцированные\nплатежи</string>
+    <string name="periods">Количество платежных\nпериодов</string>
+</resources>
